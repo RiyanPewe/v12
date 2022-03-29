@@ -1,5 +1,5 @@
 {
-  "name": "RamdaniOfficial",
+  "name": "RiyanPewe",
   "version": "0.0.1",
   "description": "© creator by ramdani official",
   "main": "main.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Ramdani Official",
+  "author": "RiyanPewe",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
