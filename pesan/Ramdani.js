@@ -1,11 +1,11 @@
 
 {
-  botname = "RAMDANI BOTZ"
+  botname = "RiyanBotz"
 
 
   exports.help = (prefix) => {
 return `
-LIST MENU RamdaniS STORE
+LIST MENU Riyan STORE
 #mla *menampilkan list mobile legend fast*
 #mlb *menampilkan list mobile legend last*
 #reddem *menampilkan list reddem*
@@ -115,15 +115,15 @@ Masukkan Kode Verifikasi pada web kode redeem ml
 Layanan Aktif 10.00 - 21.00 WIB
 Proses 5-60 Menit, Max 24 Jam (Event)
 Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
-[14.05, 20/12/2021] Ramdanis Store: 💰 PAYMENT  💰
+[14.05, 20/12/2021] Riyan Store: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 083861908019
+A / n : RiyanPewe
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 081325964458
+A / n : RiyanPewe
 
 💳 OVO (LIMIT) 
 Nomor : 
@@ -140,12 +140,12 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
-A / n : DISAH
+Nomor : 083861908019
+A / n : RiyanPewe
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 081325964458
+A / n : RiyanPewe
 
 💳 OVO (LIMIT) 
 Nomor : 
