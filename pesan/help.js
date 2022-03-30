@@ -1,6 +1,6 @@
 
 {
-  botname = "RAMDANI BOTZ"
+  botname = "RiyanBotz"
 
 
   exports.apkmenu = (prefix) => {
@@ -487,7 +487,7 @@ KIRIM GAMBAR TRUS REPLY DENGAN COMMAND DIATAS
   exports.rules = (prefix) => {
     return `
  ╔════════ ≪ °❈° ≫ ════════╗  
-   RULES RAMDANI BOTZ 
+   RULES RiyanBotz
    1. Dilarang spam
    2. Jangan Telpon Bot
    3. Chat Owner Jika penting
